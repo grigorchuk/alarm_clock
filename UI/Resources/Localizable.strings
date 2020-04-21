@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  AlarmClock
+ 
+  Created by Aleksandr on 12.04.2020.
+  Copyright © 2020 Grigorchuk. All rights reserved.
+*/
+
+// MARK: - Application state
+
+"application_state.idle" = "Idle";
+
+// MARK: - Buttons
+
+"button.start.title" = "Start";
+
+// MARK: - Sleep timer
+
+"sleep_timer.title" = "Sleep timer";
+
+// MARK: - Alert
+
+"alarm.title" = "Alarm";
+
+// MARK: - Picker
+
+"toolbar.alarm.title" = "Alarm";
+"toolbar.done.button" = "Done";
+"toolbar.cancel.button" = "Cancel";
+
+// MARK: - Action
+
+"choose.button" = "Choose";

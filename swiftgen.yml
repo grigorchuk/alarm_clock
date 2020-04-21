@@ -1,0 +1,10 @@
+strings:
+  - inputs: AlarmClock/Resources/Localizable.strings
+    outputs:
+    - templateName: structured-swift4
+      output: AlarmClock/Resources/SwiftGen/Strings+Swiftgen.swift
+    
+  - inputs: UI/Resources/Localizable.strings
+    outputs:
+    - templateName: structured-swift4
+      output: UI/Resources/SwiftGen/Strings+Swiftgen.swift

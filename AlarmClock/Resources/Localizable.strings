@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AlarmClock
+ 
+  Created by Aleksandr on 12.04.2020.
+  Copyright © 2020 Grigorchuk. All rights reserved.
+*/
+
+// MARK: - Alert
+
+"alert.alarm.title" = "Alarm";
+"alert.stop.button" = "Stop";
+"alert.ok.button" = "OK";
+"alert.cancel.button" = "Cancel";
+
+// MARK: - Application state
+
+"application_state.idle" = "Idle";
+"application_state.playing" = "Playing";
+"application_state.recording" = "Recording";
+"application_state.paused" = "Paused";
+"application_state.alarm" = "Alarm";
+
+// MARK: - Sleep timer
+
+"sleep_timer.title" = "Sleep timer";
+"sleep_timer.off" = "Off";
+"sleep_timer.one" = "1 min";
+"sleep_timer.five" = "5 min";
+"sleep_timer.ten" = "10 min";
+"sleep_timer.fifteen" = "15 min";
+"sleep_timer.twenty" = "20 min";
+
+// MARK: - Buttons
+
+"button.start.title" = "Start";
+"button.pause.title" = "Pause";
+"button.resume.title" = "Resume";
